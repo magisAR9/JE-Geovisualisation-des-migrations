@@ -1,7 +1,6 @@
-# JE-Geovisualisation-des-migrations : du tableau à la carte
+![alt text](https://github.com/magisAR9/JE-Geovisualisation-des-migrations/blob/main/image_JE_Geoviz_migrations.PNG)
 
-
-## :calendar: **Mardi 31 mars - 13h00 et Jeudi 1er avril 2026 - 9h30** :
+## :calendar: **Mardi 31 mars - 13h00 et Jeudi 1er avril 2026 - 9h30**
 
 ## 📖 Présentation
 
@@ -9,11 +8,11 @@ Ces deux journées d’étude sont consacrées à la mise en commun d’expertis
 
 - La première journée est organisée autour de la **présentation de travaux de recherche et de développements géonumériques** spécifiques aux corpus de données fines/sensibles sur les migrations.
 
-- La seconde journée consiste en une **expérience interdisciplinaire, réflexive et pratique** fondée sur le couplage d’expériences et de compétences complémentaires, dans l’objectif d’expérimenter la co-production de géovisualisations à partir de données contemporaines. **[S'inscrire à l'atelier](https://survey.appli.univ-poitiers.fr/JE_geoviz_avril2026)**
+- La seconde journée consiste en une **expérience interdisciplinaire, réflexive et pratique** fondée sur le couplage d’expériences et de compétences complémentaires, dans l’objectif d’expérimenter la co-production de géovisualisations à partir de données contemporaines.
 
 
 
-## :clock10: Programme 
+##  :clock10: Programme 
 
 ### **Mardi 31 mars _après-midi_ Présentations : théories, concepts, ontologies et approches reproductibles**
 
