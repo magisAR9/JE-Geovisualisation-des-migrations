@@ -1,8 +1,5 @@
 # JE-Geovisualisation-des-migrations : du tableau à la carte
 
-Ces journées sont organisées par l’UMR 7301 **Migrations internationales, espaces et sociétés ([MIGRINTER](https://migrinter.cnrs.fr/)** et l’UMR 5194 **Laboratoire de science sociale ([PACTE](https://www.pacte-grenoble.fr/fr)**, avec le concours de l’Action de recherche **[(Carto)graphies et (Géo)visualisation de données - AR09](https://github.com/magisAR9)** (AR9) du GdR CNRS MAGIS.
-___
-
 
 ## :calendar: **Mardi 31 mars - 13h00 et Jeudi 1er avril 2026 - 9h30** :
 
@@ -28,7 +25,7 @@ Ces deux journées d’étude sont consacrées à la mise en commun d’expertis
 
 14h40-15h30 >	Christine Plumejeaud-Perreau (UMR 7301 Migrinter, Poitiers) : Les incertitudes de la cartographie des camps de migrants.
 
-**15h30-15h50 > _Pause 20_'**
+**15h30-15h50 > _Pause café 20_'**
 
 15h50-16h40 >	Raphaël Bres (UMR 5194 PACTE, Grenoble): Instancier une ontologie dédiée pour la (géo)visualisation dans le projet « frontière létales ».
 
@@ -40,7 +37,7 @@ Ces deux journées d’étude sont consacrées à la mise en commun d’expertis
 
 ### **Jeudi 1er avril 2026 Atelier collectif**
 
-▶️ **[S'inscrire](https://survey.appli.univ-poitiers.fr/JE_geoviz_avril2026)**
+▶️ **[Inscription à l'atelier](https://survey.appli.univ-poitiers.fr/JE_geoviz_avril2026)**
 L'atelier est limité à 30 places. Les inscriptions seront closes le 28 février 2026.
 
 - **Objectif :**
@@ -68,8 +65,17 @@ Fernier, Louis, Plumejeaud-Perreau, Christine et Martin, Nelly. Cartographier le
 - Bahoken, Françoise. « La représentation graphique de narrations de mobilités spatiales, aspects formels », In : Fournier, M-C. et Troin, Florence (dir), Comment cartographier les récits/Mapping MéthodologiesÉditions de l'UMR Territoires, 22 p., 2021. ⟨hal-03346211⟩
 - Amar, Marianne, Sylvie Aprile, et Françoise Bahoken. « Cartographier les migrations et leurs récits: Entretien avec Françoise Bahoken, géographe et cartographe ». Hommes & migrations, no 1335 (octobre 2021): 128‑44. https://doi.org/10.4000/hommesmigrations.13328.
 
+
+## :globe_with_meridians: Université Grenoble Alpes, **Maison de création et de l’innovation - MaCI**
+339 Av. Centrale, 38400 Saint-Martin-d'Hères
+
+## ℹ️ Organisation
+
+Ces journées sont organisées par l’UMR 7301 **Migrations internationales, espaces et sociétés ([MIGRINTER](https://migrinter.cnrs.fr/)** et l’UMR 5194 **Laboratoire de science sociale ([PACTE](https://www.pacte-grenoble.fr/fr)**, avec le concours de l’Action de recherche **[(Carto)graphies et (Géo)visualisation de données - AR09](https://github.com/magisAR9)** (AR9) du GdR CNRS MAGIS.
+
+Organisateur·trices : Françoise Bahoken (Université Gustave Eiffel), Raphaël Bres, Camille Cavaliere, Paule-Annick Davoine et Cristina Del Biaggio (Université Grenoble Alpes), Nicolas Lambert (CNRS) et Christine Plumejeaud-Perreau (CNRS, coordination).
+
 ___
 Image d'illustration : [storiesbehindaline](http://www.storiesbehindaline.com/)
-
 
 
