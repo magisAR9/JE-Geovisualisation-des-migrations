@@ -1,15 +1,18 @@
-# Journée d'étude </br> "Géovisualisations des migrations : du tableau à la carte"
+# Journée d'étude "Géovisualisations des migrations : du tableau à la carte"
 <p align="center">
   
-## 📆 Mardi 31 mars (après-midi) et Jeudi 1er avril 2026  </br> 
-  
+## 📆 Mardi 31 mars (après-midi) et Jeudi 1er avril 2026 
+
+
 ![alt text](https://github.com/magisAR9/JE-Geovisualisation-des-migrations/blob/main/image_JE_Geoviz_migrations.PNG)
+
 </p>
 
 
 
-## 🌐 Université Grenoble Alpes  </br> 
-**Maison de création et de l’innovation (MaCI) : Salle 204**. </br>
+## 🌐 Université Grenoble Alpes  
+**Maison de création et de l’innovation (MaCI) - Salle 204**
+
 339 Av. Centrale, 38400 Saint-Martin-d'Hères
 
 ## 📖 Présentation
