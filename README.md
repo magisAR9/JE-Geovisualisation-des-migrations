@@ -5,8 +5,6 @@
 
 ![alt text](https://github.com/magisAR9/JE-Geovisualisation-des-migrations/blob/main/image_JE_Geoviz_migrations.PNG)
 
-<img src="https://github.com/magisAR9/JE-Geovisualisation-des-migrations/blob/main/image_JE_Geoviz_migrations.PNG" width="800">
-
 ## 🌐 Université Grenoble Alpes  
 **Maison de création et de l’innovation (MaCI) - Salle 204**
 
