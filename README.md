@@ -2,7 +2,7 @@
   
 ## 📆 Mardi 31 mars (après-midi) et Jeudi 1er avril 2026 
 
-![alt text](https://github.com/magisAR9/JE-Geovisualisation-des-migrations/blob/main/image_JE_Geoviz_migrations.PNG)
+![](https://github.com/magisAR9/JE-Geovisualisation-des-migrations/blob/main/image_JE_Geoviz_migrations.PNG)
 
 ## 🌐 Université Grenoble Alpes  
 **Maison de création et de l’innovation (MaCI) - Salle 204**
