@@ -1,5 +1,4 @@
 # Journée d'étude "Géovisualisations des migrations : du tableau à la carte"
-<p align="center">
   
 ## 📆 Mardi 31 mars (après-midi) et Jeudi 1er avril 2026 
 
