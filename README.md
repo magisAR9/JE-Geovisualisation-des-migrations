@@ -3,12 +3,9 @@
   
 ## 📆 Mardi 31 mars (après-midi) et Jeudi 1er avril 2026 
 
-
 ![alt text](https://github.com/magisAR9/JE-Geovisualisation-des-migrations/blob/main/image_JE_Geoviz_migrations.PNG)
 
-</p>
-
-
+<img src="https://github.com/magisAR9/JE-Geovisualisation-des-migrations/blob/main/image_JE_Geoviz_migrations.PNG" width="800">
 
 ## 🌐 Université Grenoble Alpes  
 **Maison de création et de l’innovation (MaCI) - Salle 204**
@@ -71,12 +68,17 @@ Par une approche expérimentale, les participant·es sont invité·es à se conf
  
 ## Quelques références sur le sujet
 
-– _La mort de Blessing Matthew - Une contre-enquête sur la violence aux frontières alpines_ [borderforensics.org/fr/enquetes/blessing/](https://www.borderforensics.org/fr/enquetes/blessing/)  </br> 
-– _The fatal policies of Fortress Europe_ : [unitedagainstrefugeedeaths.eu/](https://unitedagainstrefugeedeaths.eu/)  </br> 
-– Daniès, Marie. « La cartographie comme trace des parcours d’exil », Mémoires, n° 91.  Entretien réalisé avec Nicolas Lambert pour le [centre Primo Levi](https://primolevi.org/), [neocarto.hypotheses.org/22531](https://neocarto.hypotheses.org/22531)</br> 
-– Fernier, Louis, Plumejeaud-Perreau, Christine et Martin, Nelly. Cartographier les lieux d’encampement en Europe, Proceedings, Conférence Spatial Analysis and GEOmatics (SAGEO) 2025 - La Science de l'Information Géographique dans tous ses états, May 2025, Avignon, France. pp.166-171. [⟨hal-05140687⟩](https://hal.science/hal-05140687v1) </br> 
-– Caquard, Sébastien, et Dimitrovas, Stefanie. « Story Maps & Co. Un état de l’art de la cartographie des récits sur Internet ». [Mappemonde, no 121 (juillet 2017)](https://doi.org/10.4000/mappemonde.3304) </br> 
-– Bahoken, Françoise. « La représentation graphique de narrations de mobilités spatiales, aspects formels », In : Fournier, M-C. et Troin, Florence (dir), Comment cartographier les récits/Mapping Méthodologies, Éditions de l'UMR Territoires, 22 p., 2021. [⟨hal-03346211⟩](https://hal.science/hal-03346211v1) </br> 
+– _La mort de Blessing Matthew - Une contre-enquête sur la violence aux frontières alpines_ [borderforensics.org/fr/enquetes/blessing/](https://www.borderforensics.org/fr/enquetes/blessing/) 
+
+– _The fatal policies of Fortress Europe_ : [unitedagainstrefugeedeaths.eu/](https://unitedagainstrefugeedeaths.eu/)  
+
+– Daniès, Marie. « La cartographie comme trace des parcours d’exil », Mémoires, n° 91.  Entretien réalisé avec Nicolas Lambert pour le [centre Primo Levi](https://primolevi.org/), [neocarto.hypotheses.org/22531](https://neocarto.hypotheses.org/22531)
+
+– Fernier, Louis, Plumejeaud-Perreau, Christine et Martin, Nelly. Cartographier les lieux d’encampement en Europe, Proceedings, Conférence Spatial Analysis and GEOmatics (SAGEO) 2025 - La Science de l'Information Géographique dans tous ses états, May 2025, Avignon, France. pp.166-171. [⟨hal-05140687⟩](https://hal.science/hal-05140687v1) 
+
+– Caquard, Sébastien, et Dimitrovas, Stefanie. « Story Maps & Co. Un état de l’art de la cartographie des récits sur Internet ». [Mappemonde, no 121 (juillet 2017)](https://doi.org/10.4000/mappemonde.3304)
+
+– Bahoken, Françoise. « La représentation graphique de narrations de mobilités spatiales, aspects formels », In : Fournier, M-C. et Troin, Florence (dir), Comment cartographier les récits/Mapping Méthodologies, Éditions de l'UMR Territoires, 22 p., 2021. [⟨hal-03346211⟩](https://hal.science/hal-03346211v1)                                                                                                                                                                                                                                                                           
 – Amar, Marianne, Sylvie Aprile, et Françoise Bahoken. « Cartographier les migrations et leurs récits: Entretien avec Françoise Bahoken, géographe et cartographe ». [revue Hommes & migrations, no 1335 (octobre 2021)](https://doi.org/10.4000/hommesmigrations.13328): 128‑44.
 
 
@@ -85,7 +87,7 @@ Par une approche expérimentale, les participant·es sont invité·es à se conf
 
 Ces journées sont organisées conjointement par l’UMR 7301 **Migrations internationales, espaces et sociétés ([MIGRINTER](https://migrinter.cnrs.fr/)**, l’UMR 5194 **Laboratoire de science sociale ([PACTE](https://www.pacte-grenoble.fr/fr)**, avec le concours de l’Action de recherche **[(Carto)graphies et (Géo)visualisation de données - AR09](https://github.com/magisAR9)** (AR9) du GdR CNRS MAGIS.
 
-**Organisateur·trices** : Françoise Bahoken (Université Gustave Eiffel & AR9magis), Raphaël Bres, Camille Cavaliere, Paule-Annick Davoine et Cristina Del Biaggio (Université GrenobleAlpes), Nicolas Lambert (CNRS & AR9magis) et Christine Plumejeaud-Perreau (CNRS, coordination). </br>
+**Organisateur·trices** : Françoise Bahoken (Université Gustave Eiffel & AR9magis), Raphaël Bres, Camille Cavaliere, Paule-Annick Davoine et Cristina Del Biaggio (Université GrenobleAlpes), Nicolas Lambert (CNRS & AR9magis) et Christine Plumejeaud-Perreau (CNRS, coordination).
 
 
 ___
