@@ -80,9 +80,9 @@ Par une approche expérimentale, les participant·es sont invité·es à se conf
 
 ## ℹ️ Organisation
 
-Ces journées sont organisées conjointement par l’UMR 7301 **Migrations internationales, espaces et sociétés ([MIGRINTER](https://migrinter.cnrs.fr/)**, l’UMR 5194 **Laboratoire de science sociale ([PACTE](https://www.pacte-grenoble.fr/fr)**, le **Centre pour l’analyse spatiale et la géovisualisation [UAR Riate](https://riate.cnrs.fr)** et le **Département Aménagement, Mobilités, environnement [UGE/AME splott]([splott](https://splott.univ-gustave-eiffel.fr/)** de l'Université Gustave Eiffel, avec le concours de l’Action de recherche **[(Carto)graphies et (Géo)visualisation de données - AR09](https://github.com/magisAR9)** (AR9) du GdR CNRS MAGIS.
+Ces journées sont organisées conjointement par l’UMR 7301 **Migrations internationales, espaces et sociétés ([MIGRINTER](https://migrinter.cnrs.fr/)**, l’UMR 5194 **Laboratoire de science sociale ([PACTE](https://www.pacte-grenoble.fr/fr)**, avec le concours de l’Action de recherche **[(Carto)graphies et (Géo)visualisation de données - AR09](https://github.com/magisAR9)** (AR9) du GdR CNRS MAGIS.
 
-**Organisateur·trices** : Françoise Bahoken (Université Gustave Eiffel), Raphaël Bres, Camille Cavaliere, Paule-Annick Davoine et Cristina Del Biaggio (Université GrenobleAlpes), Nicolas Lambert (CNRS) et Christine Plumejeaud-Perreau (CNRS, coordination). </br>
+**Organisateur·trices** : Françoise Bahoken (Université Gustave Eiffel & AR9magis), Raphaël Bres, Camille Cavaliere, Paule-Annick Davoine et Cristina Del Biaggio (Université GrenobleAlpes), Nicolas Lambert (CNRS & AR9magis) et Christine Plumejeaud-Perreau (CNRS, coordination). </br>
 
 
 ___
