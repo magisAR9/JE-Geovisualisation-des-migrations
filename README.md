@@ -2,8 +2,6 @@
   
 ## 📆 Mardi 31 mars (après-midi) et Jeudi 1er avril 2026 
 
-![](https://github.com/magisAR9/JE-Geovisualisation-des-migrations/blob/main/image_JE_Geoviz_migrations.PNG)
-
 ![alt text](https://raw.githubusercontent.com/magisAR9/JE-Geovisualisation-des-migrations/main/image_JE_Geoviz_migrations.PNG)
 
 
